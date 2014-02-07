@@ -16,7 +16,9 @@ public class Instance1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hugo est un peu tres peu cool 123");
+
+        System.out.println("hugo est un peu tres peu cool YEP YEP");
+
     }
     
 }
